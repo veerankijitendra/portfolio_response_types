@@ -1,6 +1,6 @@
 {
-  "name": "@jitendra_veeranki/portfolio-types",
-  "version": "1.0.1",
+  "name": "portfolio-types",
+  "version": "1.0.2",
   "description": "My own portfolio types",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
