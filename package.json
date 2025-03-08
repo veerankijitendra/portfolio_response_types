@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-types",
+  "version": "1.0.0",
+  "description": "My own portfolio types",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/veerankijitendra/portfolio_response_types.git"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "jitendra_veeranki",
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.2"
+  }
+}
